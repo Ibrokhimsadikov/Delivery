@@ -11,4 +11,11 @@ In real business cases while developing and building predictive models are signi
 ![](https://github.com/Ibrokhimsadikov/Delivery/blob/master/make%20install.JPG)
 
 
+![](https://github.com/Ibrokhimsadikov/Delivery/blob/master/deploy%20app.JPG)
+
+![](https://github.com/Ibrokhimsadikov/Delivery/blob/master/hello%20world.JPG)
+
+![](https://github.com/Ibrokhimsadikov/Delivery/blob/master/creating%20push%20trigger.JPG)
+
+
 
