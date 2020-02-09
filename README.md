@@ -6,3 +6,8 @@ In real business cases while developing and building predictive models are signi
 ![](https://github.com/Ibrokhimsadikov/Delivery/blob/master/Setup_project.JPG)
 
 
+![](https://github.com/Ibrokhimsadikov/Delivery/blob/master/activating%20cloud-shell%20and%20setting%20ssh.JPG)
+
+
+
+
